@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SquarePlayer/Portals
+build-by-default: true
+branches:
+- main
+projects:
+  Portals:
+    path: ""
+...
