@@ -1,0 +1,12 @@
+---
+version: 1
+
+movement-detection: "task"
+
+task-time: 3
+
+lang:
+  error: "Cổng Ko Load hoặc ..."
+  no-perm: "Bạn Ko Có Quyền Dùng Cổng Này"
+  success: "Đã Dịch Chuyển Tới Cổng"
+...
