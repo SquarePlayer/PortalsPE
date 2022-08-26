@@ -1,7 +1,7 @@
 name: PortalsPE
 main: Hoangg\PortalsPE\Main
-api: 4.0.0
-version: 1.0.0
+api: 4.8.0
+version: 3.3.3
 author: Hoangg
 description: 1 Plugin Cổng
 permissions:
